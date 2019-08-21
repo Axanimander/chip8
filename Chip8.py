@@ -1,6 +1,4 @@
-"""Chip 8 interpreter/emulator by Stephen Anderson.
-   Feel free to rip, borrow, steal for your resume, plagiarize, harrass
-   destroy, reference, worship, and/or manipulate the code in any way you wish."""
+"""Chip 8 interpreter/emulator by Axanimander"""
 import pygame
 import sys #Just for sys.exit, if on Linux then get rid of this and edit the escape code on line 502
 import random
